@@ -1,0 +1,1 @@
+- [Clerk JIT provisioning race](clerk-jit-provisioning-race.md) — parallel first-load auth calls duplicate-insert the same user; use onConflictDoNothing+returning and conditional UPDATE RETURNING.
