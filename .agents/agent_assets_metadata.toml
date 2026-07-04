@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "pNMLKh2ADC0fU2EMmwi4a"
+uri = "file://attached_assets/generated_images/safeport_login_panel.png"
+type = "image"
+title = "safeport login panel"
